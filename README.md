@@ -9,45 +9,57 @@ Track stock levels in real-time
 Low stock & out-of-stock alerts
 Barcode-based product lookup
 Product categorization
+
 🏷️ Category Management
 Create and manage categories
 View products by category
 Category-wise product count
+
 📦 Barcode System
 Scan barcode using camera
 Scan from image
 Auto-fill product details
+
 📈 Dashboard & Analytics
 Total products & categories
 Inventory value tracking
 Stock status charts
 Inventory health insights
+
 ⚠️ Low Stock Monitoring
 Dedicated low-stock page
 Quick stock update
 Alerts for critical inventory
+
 🛒 Point of Sale (POS)
 Add products to cart
 Checkout system
 Automatic stock reduction
 Sales history tracking
 Invoice generation
+
 📁 Import / Export
 Import products via Excel
 Export products & categories
 Bulk data management
+
 🏗️ Tech Stack
+
 🌐 Web (Frontend)
 Html
 CSS / Modern UI
+
 ⚙️ Backend
 Node.js
 Express.js
+
 🗄️ Database
 MySQL
+
 🔄 Sync System
 REST APIs (shared between web & mobile)
 Real-time updates (optional via WebSockets)
+
 📂 Project Structure
 Smart-Inventory-Management-System/ │ ├── frontend/ # Html Web Dashboard ├── backend/ # Node.js API Server ├── README.md
 
