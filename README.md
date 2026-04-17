@@ -5,21 +5,33 @@ SmartStock is a modern and intelligent Inventory Management System designed to m
 🚀 Features
 
 📊Inventory Management
+
 Add, update, delete products
+
 Track stock levels in real-time
+
 Low stock & out-of-stock alerts
+
 Barcode-based product lookup
+
 Product categorization
 
 🏷️ Category Management
+
 Create and manage categories
+
 View products by category
+
 Category-wise product count
+
 
 📦 Barcode System
 
+
 Scan barcode using camera
+
 Scan from image
+
 Auto-fill product details
 
 📈 Dashboard & Analytics
